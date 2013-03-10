@@ -3,19 +3,28 @@
  * Import file to Scss or Sass.
  *
  **************************** */
-//@import "compass";
+@import "compass";
 
 
-@font-face {
+/* @font-face {
     font-family: 'Creeper';
     src: url('../font/creeper.eot');
     src: local('Creeper'), url('../font/creeper.ttf') format('truetype');
-}
+} */
+
+//compass
+font-face('Creeper', 'creeper.ttf', 'creeper.otf');
+
 
 .font
 {
+	padding: 20px;
+	width: 600px;
+
 	font-family: 'Creeper';
+	font-size: 130%;
+	letter-spacing: 10px;
+	line-height: 160%;
 }
 
 
-//font-face('Creeper', 'creeper.ttf', 'creeper.otf');
