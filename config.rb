@@ -1,4 +1,4 @@
-http_path = "/"
+http_path = "http://nonakaryuichi.github.com/web_font_sample"
 css_dir = "css"
 sass_dir = "scss"
 font_dir = "font"
