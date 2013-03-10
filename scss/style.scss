@@ -13,7 +13,7 @@
 } */
 
 //compass
-font-face('Creeper', 'creeper.ttf', 'creeper.otf');
+@include font-face('Creeper', 'creeper.ttf', 'creeper.otf');
 
 
 .font
