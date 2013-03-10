@@ -1,0 +1,12 @@
+/* *****************************
+ *
+ * Import file to Scss or Sass.
+ *
+ **************************** */
+@font-face {
+  font-family: 'Creeper';
+  src: url("../font/creeper.eot");
+  src: local("Creeper"), url("../font/creeper.ttf") format("truetype"); }
+
+.font {
+  font-family: 'Creeper'; }

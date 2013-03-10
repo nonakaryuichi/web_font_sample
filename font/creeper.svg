@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+Copyright:UnDefine
+</metadata>
+<defs>
+<font>
+<font-face units-per-em="1024" ascent="880" descent="144" />
+<glyph unicode="&#xf041;" horiz-adv-x="512" d="M-142,532 L-142,798 L122,798 L118,532 zM384,532 L388,798 L652,798 L652,532 zM382,532 L382,399 L519,399 L519,4 L386,4 L386,132 L122,132 L122,4 L-8,4 L-8,399 L118,399 L118,532 z" />
+</font>
+</defs>
+</svg>
